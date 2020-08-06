@@ -21,7 +21,7 @@ available for free.
 
 Running a basic flask api with an index render, the initial db Schema:
 
-![Screenshot](./journal/Math Schema.jpeg)
+![Screenshot](./journal/MathSchema.jpeg)
 
 Basic CRUD to start implementing data as I learn the basics in the process.
 
